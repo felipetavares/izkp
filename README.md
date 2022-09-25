@@ -13,7 +13,7 @@ Broadly, this is what is done:
 
 1. Convert the statement into a boolean expression.
 2. Prove the boolean expression by:
-   a. Convert it to a 3-colorable graph.
-   b. Prove a coloring exists.
+   - a) Convert it to a 3-colorable graph.
+   - b) Prove a coloring exists.
 
-The code essentially does step 2.b, everything else is done offline.
+The code essentially does step (2.b), everything else is done offline.
