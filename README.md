@@ -1,7 +1,7 @@
 # Interactive Zero-Knowledge Proofs
 
 Direct implementation of a simple IZK proof system that is able to prove
-knowledge of $x$ in $$x + 1 = 2$$.
+knowledge of $x$ in $x + 1 = 2$.
 
 There's a long explanation provided [in my blog][article].
 
